@@ -1,5 +1,5 @@
 
-__VPS-MANAGER 1.0__
+__VPS-MANAGER - Edit By L TM 1.1__
 
 __Recomendado__
 - Ubuntu 18
