@@ -57,7 +57,7 @@ fun_badvpn() {
                     sleep 0.1
                 } || {
                     cd $HOME
-                    wget https://raw.githubusercontent.com/Tjssh/VPS-MANAGER-TJ-1.1/raw/main/Modulos/badvpn-udpgw -o /dev/null
+                    wget https://github.com/Tjssh/VPS-MANAGER-TJ-1.1/raw/main/Modulos/badvpn-udpgw -o /dev/null
                     mv -f $HOME/badvpn-udpgw /bin/badvpn-udpgw
                     chmod 777 /bin/badvpn-udpgw
                 }
